@@ -1,0 +1,60 @@
+.imaghom {
+  margin: 200px;
+}
+/* .mb-3 {
+  color: black;
+    top: 10px;
+    right: 100px;
+    font-size: 200%;
+    width: 50%;
+  } */
+.desc {
+  display: inline;
+  color: black;
+  background-color: rgb(157, 231, 242); 
+  list-style-type: none;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+/* .footer{
+  
+  background-color:black;
+}
+
+.copy{
+  color: white;
+  font-size :medium;
+  margin-left: 620px;
+  margin-top: 30px;
+}
+.navbar{
+  display: flex;
+  position: fixed;
+
+} */
+
+.butt{
+  display: flex;
+  justify-content: space-between;
+}
+
+.divP{
+  display: flex;
+  justify-content: space-around;
+
+}
+
+.divF{
+  display: flex;
+  justify-content: space-around;
+
+}
+
+.rami{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+ 
+}
